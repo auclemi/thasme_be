@@ -1,0 +1,993 @@
+[
+    {
+        "id": 426,
+        "date": "2025-10-31T14:29:24",
+        "date_gmt": "2025-10-31T13:29:24",
+        "guid": {
+            "rendered": "http:\/\/localhost\/wp\/?page_id=426"
+        },
+        "modified": "2025-10-31T17:19:04",
+        "modified_gmt": "2025-10-31T16:19:04",
+        "slug": "test-grid",
+        "status": "publish",
+        "type": "page",
+        "link": "http:\/\/localhost\/wp\/test-grid\/",
+        "title": {
+            "rendered": "Test grid"
+        },
+        "content": {
+            "rendered": "\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:66.66%\">\n<h2 class=\"wp-block-heading\">Parlons de votre projet<\/h2>\n\n\n\n<p>Vous avez une id\u00e9e, un besoin ou une question\u202f? Je suis \u00e0 votre \u00e9coute pour vous accompagner dans vos projets web, vos audits d\u2019accessibilit\u00e9 ou vos formations WordPress.<\/p>\n\n\n<style id=\"wpforms-css-vars-288-block-c9071a86-3694-480f-8360-0f29bf43675e\">\n\t\t\t\t#wpforms-288.wpforms-block-c9071a86-3694-480f-8360-0f29bf43675e {\n\t\t\t\t--wpforms-field-size-input-height: 43px;\n--wpforms-field-size-input-spacing: 15px;\n--wpforms-field-size-font-size: 16px;\n--wpforms-field-size-line-height: 19px;\n--wpforms-field-size-padding-h: 14px;\n--wpforms-field-size-checkbox-size: 16px;\n--wpforms-field-size-sublabel-spacing: 5px;\n--wpforms-field-size-icon-size: 1;\n--wpforms-label-size-font-size: 16px;\n--wpforms-label-size-line-height: 19px;\n--wpforms-label-size-sublabel-font-size: 14px;\n--wpforms-label-size-sublabel-line-height: 17px;\n--wpforms-button-size-font-size: 17px;\n--wpforms-button-size-height: 41px;\n--wpforms-button-size-padding-h: 15px;\n--wpforms-button-size-margin-top: 10px;\n\t\t\t}\n\t\t\t<\/style><div class=\"wpforms-container wpforms-container-full wpforms-block wpforms-block-c9071a86-3694-480f-8360-0f29bf43675e wpforms-render-modern\" id=\"wpforms-288\"><form id=\"wpforms-form-288\" class=\"wpforms-validate wpforms-form wpforms-ajax-form\" data-formid=\"288\" method=\"post\" enctype=\"multipart\/form-data\" action=\"\/wp\/wp-json\/wp\/v2\/pages\" data-token=\"11d526264985e0d50e66fd5de3686d3f\" data-token-time=\"1764243581\"><noscript class=\"wpforms-error-noscript\">Veuillez activer JavaScript dans votre navigateur pour remplir ce formulaire.<\/noscript><div id=\"wpforms-error-noscript\" style=\"display: none;\">Veuillez activer JavaScript dans votre navigateur pour remplir ce formulaire.<\/div><div class=\"wpforms-field-container\"><div id=\"wpforms-288-field_1-container\" class=\"wpforms-field wpforms-field-name\" data-field-id=\"1\"><fieldset><legend class=\"wpforms-field-label\">Pr\u00e9nom &amp; Nom <span class=\"wpforms-required-label\" aria-hidden=\"true\">*<\/span><\/legend><div class=\"wpforms-field-row wpforms-field-medium\"><div class=\"wpforms-field-row-block wpforms-first wpforms-one-half\"><input type=\"text\" id=\"wpforms-288-field_1\" class=\"wpforms-field-name-first wpforms-field-required\" name=\"wpforms[fields][1][first]\" aria-errormessage=\"wpforms-288-field_1-error\" required><label for=\"wpforms-288-field_1\" class=\"wpforms-field-sublabel after\">Pr\u00e9nom<\/label><\/div><div class=\"wpforms-field-row-block wpforms-one-half\"><input type=\"text\" id=\"wpforms-288-field_1-last\" class=\"wpforms-field-name-last wpforms-field-required\" name=\"wpforms[fields][1][last]\" aria-errormessage=\"wpforms-288-field_1-last-error\" required><label for=\"wpforms-288-field_1-last\" class=\"wpforms-field-sublabel after\">Nom<\/label><\/div><\/div><\/fieldset><\/div>\t\t<div id=\"wpforms-288-field_4-container\"\n\t\t\tclass=\"wpforms-field wpforms-field-text\"\n\t\t\tdata-field-type=\"text\"\n\t\t\tdata-field-id=\"4\"\n\t\t\t>\n\t\t\t<label class=\"wpforms-field-label\" for=\"wpforms-288-field_4\" >Pr\u00e9nom message Nom<\/label>\n\t\t\t<input type=\"text\" id=\"wpforms-288-field_4\" class=\"wpforms-field-medium\" name=\"wpforms[fields][4]\" >\n\t\t<\/div>\n\t\t<div id=\"wpforms-288-field_2-container\" class=\"wpforms-field wpforms-field-email\" data-field-id=\"2\"><label class=\"wpforms-field-label\" for=\"wpforms-288-field_2\">E-mail <span class=\"wpforms-required-label\" aria-hidden=\"true\">*<\/span><\/label><input type=\"email\" id=\"wpforms-288-field_2\" class=\"wpforms-field-medium wpforms-field-required\" name=\"wpforms[fields][2]\" spellcheck=\"false\" aria-errormessage=\"wpforms-288-field_2-error\" required><\/div><div id=\"wpforms-288-field_3-container\" class=\"wpforms-field wpforms-field-textarea\" data-field-id=\"3\"><label class=\"wpforms-field-label\" for=\"wpforms-288-field_3\">Commentaire ou message <span class=\"wpforms-required-label\" aria-hidden=\"true\">*<\/span><\/label><textarea id=\"wpforms-288-field_3\" class=\"wpforms-field-medium wpforms-field-required\" name=\"wpforms[fields][3]\" aria-errormessage=\"wpforms-288-field_3-error\" required><\/textarea><\/div><script>\n\t\t\t\t( function() {\n\t\t\t\t\tconst style = document.createElement( 'style' );\n\t\t\t\t\tstyle.appendChild( document.createTextNode( '#wpforms-288-field_4-container { position: absolute !important; overflow: hidden !important; display: inline !important; height: 1px !important; width: 1px !important; z-index: -1000 !important; padding: 0 !important; } #wpforms-288-field_4-container input { visibility: hidden; } #wpforms-conversational-form-page #wpforms-288-field_4-container label { counter-increment: none; }' ) );\n\t\t\t\t\tdocument.head.appendChild( style );\n\t\t\t\t\tdocument.currentScript?.remove();\n\t\t\t\t} )();\n\t\t\t<\/script><\/div><!-- .wpforms-field-container --><div class=\"wpforms-submit-container\" ><input type=\"hidden\" name=\"wpforms[id]\" value=\"288\"><input type=\"hidden\" name=\"page_title\" value=\"\"><input type=\"hidden\" name=\"page_url\" value=\"http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\"><input type=\"hidden\" name=\"url_referer\" value=\"\"><button type=\"submit\" name=\"wpforms[submit]\" id=\"wpforms-submit-288\" class=\"wpforms-submit\" data-alt-text=\"Envoi...\" data-submit-text=\"Envoyer\" aria-live=\"assertive\" value=\"wpforms-submit\">Envoyer<\/button><img loading=\"lazy\" decoding=\"async\" src=\"http:\/\/localhost\/wp\/wp-content\/plugins\/wpforms-lite\/assets\/images\/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Chargement en cours\"><\/div><\/form><\/div>  <!-- .wpforms-container --><\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<div class=\"card text-bg-success mb-3\" style=\"\">\n  <div class=\"card-header\">C&rsquo;est quoi That&rsquo;s ME ?<\/div>\n  <div class=\"card-body\">\n    \n    <p class=\"card-text\">Je suis Michel Auclert, un consultant informatique ind\u00e9pendant \u00e0 Perpignan, France\n<\/p>\n<br><br>\n<strong>SIRET:<\/strong> 31933539400064\n<br><strong>Num\u00e9ro de TVA intracommunautaire:<\/strong> FR 0F319335394\n  <\/div>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p>aaaaaaaaaa <\/p>\n<\/blockquote>\n<\/div>\n<\/div>\n\n\n\n<p><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Parlons de votre projet Vous avez une id\u00e9e, un besoin ou une question\u202f? Je suis \u00e0 votre \u00e9coute pour vous accompagner dans vos projets web, vos audits d\u2019accessibilit\u00e9 ou vos formations WordPress. C&rsquo;est quoi That&rsquo;s ME ? Je suis Michel Auclert, un consultant informatique ind\u00e9pendant \u00e0 Perpignan, France SIRET: 31933539400064 Num\u00e9ro de TVA intracommunautaire: FR &#8230; <a title=\"Test grid\" class=\"read-more\" href=\"http:\/\/localhost\/wp\/test-grid\/\" aria-label=\"En savoir plus sur Test grid\">Lire la suite<\/a><\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-426",
+            "page",
+            "type-page",
+            "status-publish"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/426",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/comments?post=426"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 14,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/426\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 470,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/426\/revisions\/470"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/media?parent=426"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 312,
+        "date": "2025-10-30T16:49:38",
+        "date_gmt": "2025-10-30T15:49:38",
+        "guid": {
+            "rendered": "http:\/\/localhost\/wp\/?page_id=312"
+        },
+        "modified": "2025-10-31T14:27:29",
+        "modified_gmt": "2025-10-31T13:27:29",
+        "slug": "test-flex",
+        "status": "publish",
+        "type": "page",
+        "link": "http:\/\/localhost\/wp\/test-flex\/",
+        "title": {
+            "rendered": "test flex"
+        },
+        "content": {
+            "rendered": "\n<p><\/p>\n\n\n\n<div class=\"d-md-flex column-gap-3\">\n            <div class=\"w-75\">\n                <h2>Parlons de votre projet<\/h2>\n\n                <p>Vous avez une id\u00e9e, un besoin ou une question\u202f? Je suis \u00e0 votre \u00e9coute pour vous accompagner dans vos\n                    projets web, vos audits d\u2019accessibilit\u00e9 ou vos formations WordPress.<\/p>\n\n                <br>Bas\u00e9 \u00e0 Perpignan \u2013 Disponible en t\u00e9l\u00e9travail ou au forfait.\n\n                <br>\ud83d\udd17 LinkedIn : <a href=\"https:\/\/www.linkedin.com\/in\/michelauclert\/\" target=\"_blank\">Mon profil<\/a>\n                <br><br>\n                <h2>Laissez moi un message<\/h2>\n<style id=\"wpforms-css-vars-288\">\n\t\t\t\t#wpforms-288 {\n\t\t\t\t--wpforms-container-padding: 0px;\n--wpforms-container-border-width: 1px;\n--wpforms-container-border-radius: 3px;\n--wpforms-background-color: rgba(0, 0, 0, 0);\n--wpforms-field-size-input-height: 43px;\n--wpforms-field-size-input-spacing: 15px;\n--wpforms-field-size-font-size: 16px;\n--wpforms-field-size-line-height: 19px;\n--wpforms-field-size-padding-h: 14px;\n--wpforms-field-size-checkbox-size: 16px;\n--wpforms-field-size-sublabel-spacing: 5px;\n--wpforms-field-size-icon-size: 1;\n--wpforms-label-size-font-size: 16px;\n--wpforms-label-size-line-height: 19px;\n--wpforms-label-size-sublabel-font-size: 14px;\n--wpforms-label-size-sublabel-line-height: 17px;\n--wpforms-button-size-font-size: 17px;\n--wpforms-button-size-height: 41px;\n--wpforms-button-size-padding-h: 15px;\n--wpforms-button-size-margin-top: 10px;\n--wpforms-container-shadow-size-box-shadow: none;\n\t\t\t}\n\t\t\t<\/style><div class=\"wpforms-container wpforms-container-full wpforms-render-modern\" id=\"wpforms-288\"><form id=\"wpforms-form-288\" class=\"wpforms-validate wpforms-form wpforms-ajax-form\" data-formid=\"288\" method=\"post\" enctype=\"multipart\/form-data\" action=\"\/wp\/wp-json\/wp\/v2\/pages\" data-token=\"11d526264985e0d50e66fd5de3686d3f\" data-token-time=\"1764243581\"><noscript class=\"wpforms-error-noscript\">Veuillez activer JavaScript dans votre navigateur pour remplir ce formulaire.<\/noscript><div id=\"wpforms-error-noscript\" style=\"display: none;\">Veuillez activer JavaScript dans votre navigateur pour remplir ce formulaire.<\/div><div class=\"wpforms-field-container\"><div id=\"wpforms-288-field_1-container\" class=\"wpforms-field wpforms-field-name\" data-field-id=\"1\"><fieldset><legend class=\"wpforms-field-label\">Pr\u00e9nom &amp; Nom <span class=\"wpforms-required-label\" aria-hidden=\"true\">*<\/span><\/legend><div class=\"wpforms-field-row wpforms-field-medium\"><div class=\"wpforms-field-row-block wpforms-first wpforms-one-half\"><input type=\"text\" id=\"wpforms-288-field_1\" class=\"wpforms-field-name-first wpforms-field-required\" name=\"wpforms[fields][1][first]\" aria-errormessage=\"wpforms-288-field_1-error\" required><label for=\"wpforms-288-field_1\" class=\"wpforms-field-sublabel after\">Pr\u00e9nom<\/label><\/div><div class=\"wpforms-field-row-block wpforms-one-half\"><input type=\"text\" id=\"wpforms-288-field_1-last\" class=\"wpforms-field-name-last wpforms-field-required\" name=\"wpforms[fields][1][last]\" aria-errormessage=\"wpforms-288-field_1-last-error\" required><label for=\"wpforms-288-field_1-last\" class=\"wpforms-field-sublabel after\">Nom<\/label><\/div><\/div><\/fieldset><\/div>\t\t<div id=\"wpforms-288-field_4-container\"\n\t\t\tclass=\"wpforms-field wpforms-field-text\"\n\t\t\tdata-field-type=\"text\"\n\t\t\tdata-field-id=\"4\"\n\t\t\t>\n\t\t\t<label class=\"wpforms-field-label\" for=\"wpforms-288-field_4\" >&amp; Commentaire message<\/label>\n\t\t\t<input type=\"text\" id=\"wpforms-288-field_4\" class=\"wpforms-field-medium\" name=\"wpforms[fields][4]\" >\n\t\t<\/div>\n\t\t<div id=\"wpforms-288-field_2-container\" class=\"wpforms-field wpforms-field-email\" data-field-id=\"2\"><label class=\"wpforms-field-label\" for=\"wpforms-288-field_2\">E-mail <span class=\"wpforms-required-label\" aria-hidden=\"true\">*<\/span><\/label><input type=\"email\" id=\"wpforms-288-field_2\" class=\"wpforms-field-medium wpforms-field-required\" name=\"wpforms[fields][2]\" spellcheck=\"false\" aria-errormessage=\"wpforms-288-field_2-error\" required><\/div><div id=\"wpforms-288-field_3-container\" class=\"wpforms-field wpforms-field-textarea\" data-field-id=\"3\"><label class=\"wpforms-field-label\" for=\"wpforms-288-field_3\">Commentaire ou message <span class=\"wpforms-required-label\" aria-hidden=\"true\">*<\/span><\/label><textarea id=\"wpforms-288-field_3\" class=\"wpforms-field-medium wpforms-field-required\" name=\"wpforms[fields][3]\" aria-errormessage=\"wpforms-288-field_3-error\" required><\/textarea><\/div><script>\n\t\t\t\t( function() {\n\t\t\t\t\tconst style = document.createElement( 'style' );\n\t\t\t\t\tstyle.appendChild( document.createTextNode( '#wpforms-288-field_4-container { position: absolute !important; overflow: hidden !important; display: inline !important; height: 1px !important; width: 1px !important; z-index: -1000 !important; padding: 0 !important; } #wpforms-288-field_4-container input { visibility: hidden; } #wpforms-conversational-form-page #wpforms-288-field_4-container label { counter-increment: none; }' ) );\n\t\t\t\t\tdocument.head.appendChild( style );\n\t\t\t\t\tdocument.currentScript?.remove();\n\t\t\t\t} )();\n\t\t\t<\/script><\/div><!-- .wpforms-field-container --><div class=\"wpforms-submit-container\" ><input type=\"hidden\" name=\"wpforms[id]\" value=\"288\"><input type=\"hidden\" name=\"page_title\" value=\"\"><input type=\"hidden\" name=\"page_url\" value=\"http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\"><input type=\"hidden\" name=\"url_referer\" value=\"\"><button type=\"submit\" name=\"wpforms[submit]\" id=\"wpforms-submit-288\" class=\"wpforms-submit\" data-alt-text=\"Envoi...\" data-submit-text=\"Envoyer\" aria-live=\"assertive\" value=\"wpforms-submit\">Envoyer<\/button><img loading=\"lazy\" decoding=\"async\" src=\"http:\/\/localhost\/wp\/wp-content\/plugins\/wpforms-lite\/assets\/images\/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Chargement en cours\"><\/div><\/form><\/div>  <!-- .wpforms-container -->\n            <\/div>\n            <div class=\"w-25\">\n                <div class=\"card text-bg-success mb-3\" style=\"\">\n                    <div class=\"card-header\">C&rsquo;est quoi That&rsquo;s ME ?<\/div>\n                    <div class=\"card-body\">\n\n                        <p class=\"card-text\">Je suis Michel Auclert, consultant informatique \u00e0 Perpignan,\n                            France\n                        <\/p>\n                        <br><br>\n                        <strong>SIRET:<\/strong> 31933539400064\n                        <br><strong>Num\u00e9ro de TVA intracommunautaire:<\/strong> FR 0F319335394\n                    <\/div>\n                <\/div>\n            <\/div>\n        <\/div>\n\n\n\n<p><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Parlons de votre projet Vous avez une id\u00e9e, un besoin ou une question\u202f? Je suis \u00e0 votre \u00e9coute pour vous accompagner dans vos projets web, vos audits d\u2019accessibilit\u00e9 ou vos formations WordPress. Bas\u00e9 \u00e0 Perpignan \u2013 Disponible en t\u00e9l\u00e9travail ou au forfait. \ud83d\udd17 LinkedIn : Mon profil Laissez moi un message C&rsquo;est quoi That&rsquo;s ME &#8230; <a title=\"test flex\" class=\"read-more\" href=\"http:\/\/localhost\/wp\/test-flex\/\" aria-label=\"En savoir plus sur test flex\">Lire la suite<\/a><\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-312",
+            "page",
+            "type-page",
+            "status-publish"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/312",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/comments?post=312"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 74,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/312\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 425,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/312\/revisions\/425"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/media?parent=312"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 170,
+        "date": "2025-10-24T18:04:02",
+        "date_gmt": "2025-10-24T16:04:02",
+        "guid": {
+            "rendered": "http:\/\/localhost\/wp\/?page_id=170"
+        },
+        "modified": "2025-11-03T09:11:38",
+        "modified_gmt": "2025-11-03T08:11:38",
+        "slug": "developpement-front-end-angular",
+        "status": "publish",
+        "type": "page",
+        "link": "http:\/\/localhost\/wp\/developpement-front-end-angular\/",
+        "title": {
+            "rendered": "D\u00e9veloppement Front-end Angular"
+        },
+        "content": {
+            "rendered": "\n<ul class=\"wp-block-list list-ok\">\n<li>Angular, RxJS, TypeScript<\/li>\n\n\n\n<li>Int\u00e9gration avec API REST<\/li>\n\n\n\n<li>Tests NVDA \/ ARIA \/ WCAG<\/li>\n\n\n\n<li>Performance et s\u00e9curit\u00e9<\/li>\n<\/ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-170",
+            "page",
+            "type-page",
+            "status-publish"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/170",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/comments?post=170"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/170\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 606,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/170\/revisions\/606"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/media?parent=170"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 146,
+        "date": "2025-10-24T15:29:06",
+        "date_gmt": "2025-10-24T13:29:06",
+        "guid": {
+            "rendered": "http:\/\/localhost\/wp\/?page_id=146"
+        },
+        "modified": "2025-11-07T17:39:52",
+        "modified_gmt": "2025-11-07T16:39:52",
+        "slug": "accueil",
+        "status": "publish",
+        "type": "page",
+        "link": "http:\/\/localhost\/wp\/",
+        "title": {
+            "rendered": ""
+        },
+        "content": {
+            "rendered": "<section>\n<h1>That&rsquo;s Me !<\/h1>\n<h2 class=\"entry-title\">Michel Auclert Consultant Web &amp; Accessibilit\u00e9<\/h2>\n<div>D\u00e9veloppeur senior sp\u00e9cialis\u00e9 en Angular et accessibilit\u00e9 num\u00e9rique, je con\u00e7ois des interfaces web performantes, inclusives et \u00e9volutives.<\/div>\n<div>\ud83d\udccd Bas\u00e9 \u00e0 Perpignan, France \u2013 Disponible en t\u00e9l\u00e9travail ou au forfait<\/div>\n<\/section>\n<section>\n<h2 class=\"entry-title\">\ud83c\udfaf Ce que je propose<\/h2>\n<ul class=\"list-ok\">\n<li>D\u00e9veloppement front-end sur mesure<\/li>\n<li>Cr\u00e9ation de sites internet<\/li>\n<li>Audit accessibilit\u00e9 et mise en conformit\u00e9 WCAG<\/li>\n<li>Formation-action WordPress<\/li>\n<\/ul>\n<div><a href=\"http:\/\/localhost\/wp\/contact\"> <img loading=\"lazy\" decoding=\"async\" class=\"wp-image-551\" src=\"http:\/\/localhost\/wp\/wp-content\/uploads\/2025\/11\/Michel_auclert1-150x150.png\" alt=\"Photo de Michel Auclert\" width=\"75\" height=\"75\" srcset=\"http:\/\/localhost\/wp\/wp-content\/uploads\/2025\/11\/Michel_auclert1-150x150.png 150w, http:\/\/localhost\/wp\/wp-content\/uploads\/2025\/11\/Michel_auclert1-300x300.png 300w, http:\/\/localhost\/wp\/wp-content\/uploads\/2025\/11\/Michel_auclert1-768x768.png 768w, http:\/\/localhost\/wp\/wp-content\/uploads\/2025\/11\/Michel_auclert1.png 1024w\" sizes=\"auto, (max-width: 75px) 100vw, 75px\" \/> <strong>Contactez-moi pour discuter de votre projet.<\/strong> <\/a><\/div>\n<\/section>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>That&rsquo;s Me ! Michel Auclert Consultant Web &amp; Accessibilit\u00e9 D\u00e9veloppeur senior sp\u00e9cialis\u00e9 en Angular et accessibilit\u00e9 num\u00e9rique, je con\u00e7ois des interfaces web performantes, inclusives et \u00e9volutives. \ud83d\udccd Bas\u00e9 \u00e0 Perpignan, France \u2013 Disponible en t\u00e9l\u00e9travail ou au forfait \ud83c\udfaf Ce que je propose D\u00e9veloppement front-end sur mesure Cr\u00e9ation de sites internet Audit accessibilit\u00e9 et mise &#8230; <a title=\"\" class=\"read-more\" href=\"http:\/\/localhost\/wp\/\" aria-label=\"En savoir plus sur \">Lire la suite<\/a><\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-146",
+            "page",
+            "type-page",
+            "status-publish"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/146",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/comments?post=146"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 54,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/146\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 621,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/146\/revisions\/621"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/media?parent=146"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 127,
+        "date": "2025-10-24T15:03:28",
+        "date_gmt": "2025-10-24T13:03:28",
+        "guid": {
+            "rendered": "http:\/\/localhost\/wp\/?page_id=127"
+        },
+        "modified": "2025-11-03T09:16:08",
+        "modified_gmt": "2025-11-03T08:16:08",
+        "slug": "formation-action",
+        "status": "publish",
+        "type": "page",
+        "link": "http:\/\/localhost\/wp\/formation-action\/",
+        "title": {
+            "rendered": "Coaching cr\u00e9ation site web"
+        },
+        "content": {
+            "rendered": "\n<p>Formations pratiques pour apprendre \u00e0 cr\u00e9er, g\u00e9rer et optimiser un site WordPress accessible. Id\u00e9al pour les communicants, d\u00e9veloppeurs ou responsables de contenu.<\/p>\n\n\n\n<ul class=\"wp-block-list list-ok\">\n<li>Installation &amp; configuration <\/li>\n\n\n\n<li>Cr\u00e9ation de pages et menus <\/li>\n\n\n\n<li>Accessibilit\u00e9 dans WordPress <\/li>\n\n\n\n<li>Exercices sur site r\u00e9el<\/li>\n<\/ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Formations pratiques pour apprendre \u00e0 cr\u00e9er, g\u00e9rer et optimiser un site WordPress accessible. Id\u00e9al pour les communicants, d\u00e9veloppeurs ou responsables de contenu.<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-127",
+            "page",
+            "type-page",
+            "status-publish"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/127",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/comments?post=127"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 9,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/127\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 615,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/127\/revisions\/615"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/media?parent=127"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 122,
+        "date": "2025-10-24T15:00:19",
+        "date_gmt": "2025-10-24T13:00:19",
+        "guid": {
+            "rendered": "http:\/\/localhost\/wp\/?page_id=122"
+        },
+        "modified": "2025-11-03T09:13:06",
+        "modified_gmt": "2025-11-03T08:13:06",
+        "slug": "mise-en-conformite-accessibilite-wacg",
+        "status": "publish",
+        "type": "page",
+        "link": "http:\/\/localhost\/wp\/mise-en-conformite-accessibilite-wacg\/",
+        "title": {
+            "rendered": "Mise en conformit\u00e9 accessibilit\u00e9 WACG"
+        },
+        "content": {
+            "rendered": "<p>Je vous accompagne dans la correction des non-conformit\u00e9s pour rendre votre site accessible \u00e0 tous, y compris aux personnes en situation de handicap.<\/p>\n\n\n<ul class=\"wp-block-list list-ok\">\n<li>Impl\u00e9mentation des bonnes pratiques<\/li>\n\n\n\n<li>Formation des \u00e9quipes<\/li>\n\n\n\n<li>Suivi et validation<\/li>\n\n\n\n<li>Documentation technique<\/li>\n<\/ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Je vous accompagne dans la correction des non-conformit\u00e9s pour rendre votre site accessible \u00e0 tous, y compris aux personnes en situation de handicap.<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-122",
+            "page",
+            "type-page",
+            "status-publish"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/122",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/comments?post=122"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/122\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 609,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/122\/revisions\/609"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/media?parent=122"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 120,
+        "date": "2025-10-24T14:59:34",
+        "date_gmt": "2025-10-24T12:59:34",
+        "guid": {
+            "rendered": "http:\/\/localhost\/wp\/?page_id=120"
+        },
+        "modified": "2025-11-03T09:14:35",
+        "modified_gmt": "2025-11-03T08:14:35",
+        "slug": "audit-accessibilite",
+        "status": "publish",
+        "type": "page",
+        "link": "http:\/\/localhost\/wp\/audit-accessibilite\/",
+        "title": {
+            "rendered": "Audit accessibilit\u00e9"
+        },
+        "content": {
+            "rendered": "<p>\u00c9valuation compl\u00e8te de votre site ou application selon les normes WCAG 2.1. Rapport d\u00e9taill\u00e9 avec priorisation des corrections.<\/p>\n\n\n<ul class=\"wp-block-list list-ok\">\n<li>Tests NVDA \/ VoiceOver<\/li>\n\n\n\n<li>Analyse ARIA \/ HTML s\u00e9mantique<\/li>\n\n\n\n<li>Recommandations concr\u00e8tes<\/li>\n\n\n\n<li>Conformit\u00e9 RGAA \/ WCAG<\/li>\n<\/ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>\u00c9valuation compl\u00e8te de votre site ou application selon les normes WCAG 2.1. Rapport d\u00e9taill\u00e9 avec priorisation des corrections.<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-120",
+            "page",
+            "type-page",
+            "status-publish"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/120",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/comments?post=120"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/120\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 612,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/120\/revisions\/612"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/media?parent=120"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 115,
+        "date": "2025-10-24T14:56:24",
+        "date_gmt": "2025-10-24T12:56:24",
+        "guid": {
+            "rendered": "http:\/\/localhost\/wp\/?page_id=115"
+        },
+        "modified": "2025-10-24T18:01:37",
+        "modified_gmt": "2025-10-24T16:01:37",
+        "slug": "services",
+        "status": "publish",
+        "type": "page",
+        "link": "http:\/\/localhost\/wp\/services\/",
+        "title": {
+            "rendered": "Web consulting"
+        },
+        "content": {
+            "rendered": "<p>Accompagnement strat\u00e9gique et technique pour vos projets web. Je vous aide \u00e0 faire les bons choix technologiques et \u00e0 structurer vos d\u00e9veloppements.<\/p>\n<p>\u2714\ufe0f Analyse des besoins <br \/>\u2714\ufe0f Recommandations techniques <br \/>\u2714\ufe0f Suivi de projet <br \/>\u2714\ufe0f Coaching d\u2019\u00e9quipe<\/p>\n\n\n<p><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Accompagnement strat\u00e9gique et technique pour vos projets web. Je vous aide \u00e0 faire les bons choix technologiques et \u00e0 structurer vos d\u00e9veloppements. \u2714\ufe0f Analyse des besoins \u2714\ufe0f Recommandations techniques \u2714\ufe0f Suivi de projet \u2714\ufe0f Coaching d\u2019\u00e9quipe<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-115",
+            "page",
+            "type-page",
+            "status-publish"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/115",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/comments?post=115"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/115\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 168,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/115\/revisions\/168"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/media?parent=115"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 111,
+        "date": "2025-10-24T14:55:19",
+        "date_gmt": "2025-10-24T12:55:19",
+        "guid": {
+            "rendered": "http:\/\/localhost\/wp\/?page_id=111"
+        },
+        "modified": "2025-10-29T11:05:44",
+        "modified_gmt": "2025-10-29T10:05:44",
+        "slug": "creation-sites-internet",
+        "status": "publish",
+        "type": "page",
+        "link": "http:\/\/localhost\/wp\/creation-sites-internet\/",
+        "title": {
+            "rendered": "Cr\u00e9ation sites internet"
+        },
+        "content": {
+            "rendered": "<p>Des sites web professionnels, rapides et accessibles, livr\u00e9s cl\u00e9 en main. Id\u00e9al pour les PME, associations ou ind\u00e9pendants souhaitant une pr\u00e9sence en ligne efficace.<\/p>\n\n\n<ul class=\"wp-block-list list-ok\">\n<li class=\"list-ok\">Design responsive<\/li>\n\n\n\n<li>Optimisation SEO <\/li>\n\n\n\n<li>Accessibilit\u00e9 int\u00e9gr\u00e9e<\/li>\n\n\n\n<li>H\u00e9bergement et maintenance en option<\/li>\n<\/ul>\n\n\n\n<p><\/p>\n\n\n\n<p><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Des sites web professionnels, rapides et accessibles, livr\u00e9s cl\u00e9 en main. Id\u00e9al pour les PME, associations ou ind\u00e9pendants souhaitant une pr\u00e9sence en ligne efficace.<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-111",
+            "page",
+            "type-page",
+            "status-publish"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/111",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/comments?post=111"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 12,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/111\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 622,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/111\/revisions\/622"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/media?parent=111"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 108,
+        "date": "2025-10-24T14:50:27",
+        "date_gmt": "2025-10-24T12:50:27",
+        "guid": {
+            "rendered": "http:\/\/localhost\/wp\/?page_id=108"
+        },
+        "modified": "2025-11-03T09:08:07",
+        "modified_gmt": "2025-11-03T08:08:07",
+        "slug": "consulting",
+        "status": "publish",
+        "type": "page",
+        "link": "http:\/\/localhost\/wp\/consulting\/",
+        "title": {
+            "rendered": "Prestations web"
+        },
+        "content": {
+            "rendered": "<p>Accompagnement strat\u00e9gique et technique pour vos projets web. Je vous aide \u00e0 faire les bons choix technologiques et \u00e0 structurer vos d\u00e9veloppements.<\/p>\n<p>\u2714\ufe0f Analyse des besoins<br \/>\n\u2714\ufe0f Recommandations techniques<br \/>\n\u2714\ufe0f Suivi de projet<br \/>\n\u2714\ufe0f Coaching d\u2019\u00e9quipe<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Accompagnement strat\u00e9gique et technique pour vos projets web. Je vous aide \u00e0 faire les bons choix technologiques et \u00e0 structurer vos d\u00e9veloppements. \u2714\ufe0f Analyse des besoins \u2714\ufe0f Recommandations techniques \u2714\ufe0f Suivi de projet \u2714\ufe0f Coaching d\u2019\u00e9quipe<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-108",
+            "page",
+            "type-page",
+            "status-publish"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/108",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/comments?post=108"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/108\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 602,
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/pages\/108\/revisions\/602"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http:\/\/localhost\/wp\/wp-json\/wp\/v2\/media?parent=108"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+    
+]
