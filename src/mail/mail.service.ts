@@ -39,7 +39,7 @@ export class MailService {
         </div>
 
         <p style="margin-top: 30px; font-size: 12px; color: #777;">
-          Message envoyé automatiquement depuis ton site perso.
+          Message envoyé automatiquement depuis ton site.
         </p>
       </div>
     `,
