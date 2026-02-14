@@ -24,12 +24,12 @@ export class MailService {
     const logEntry = { name, email, message, date: new Date().toISOString(), };
     this.saveMessageLog(logEntry);
     return this.transporter.sendMail({
-      from: `"That's Me" <mauclert@gmail.com>`,
-      to: this.config.get('CONTACT_RECEIVER'),
-      subject: `Message de ${name}`,
+      from: `"That's Me" <${this.config.get('CONTACT_FROM')}>`,
+      to: this.config.get('CONTACT_TO'),
+      subject: `${this.config.get('SITE_NAME')} (${this.config.get('ENVIRONMENT')}) - Message de ${name}`,
       html: `
       <div style="font-family: Arial, sans-serif; padding: 20px; color: #333;">
-        <h2 style="color: #444;">Nouveau message depuis ton site</h2>
+        <h2 style="color: #444;">Nouveau message depuis ${this.config.get('SITE_NAME')} (${this.config.get('ENVIRONMENT')})</h2>
 
         <p><strong>Nom :</strong> ${name}</p>
         <p><strong>Email :</strong> ${email}</p>
@@ -58,6 +58,4 @@ export class MailService {
     logs.push(entry);
     fs.writeFileSync(filePath, JSON.stringify(logs, null, 2));
   }
-
-
 }
