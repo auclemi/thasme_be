@@ -5,7 +5,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 @Injectable()
-export class MailService {
+export class ContactService {
   private transporter;
 
   constructor(private config: ConfigService) {

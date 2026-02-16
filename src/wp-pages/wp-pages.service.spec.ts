@@ -1,15 +1,15 @@
 import { Test, TestingModule } from '@nestjs/testing';
-import { ContentService } from './content.service';
+import { WpPagesService } from './wp-pages.service';
 
-describe('ContentService', () => {
-  let service: ContentService;
+describe('WpPagesService', () => {
+  let service: WpPagesService;
 
   beforeEach(async () => {
     const module: TestingModule = await Test.createTestingModule({
-      providers: [ContentService],
+      providers: [WpPagesService],
     }).compile();
 
-    service = module.get<ContentService>(ContentService);
+    service = module.get<WpPagesService>(WpPagesService);
   });
 
   it('should be defined', () => {
