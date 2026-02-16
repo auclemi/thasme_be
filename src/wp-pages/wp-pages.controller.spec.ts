@@ -1,15 +1,15 @@
 import { Test, TestingModule } from '@nestjs/testing';
-import { MailController } from './mail.controller';
+import { WpPagesController } from './wp-pages.controller';
 
-describe('MailController', () => {
-  let controller: MailController;
+describe('WpPagesController', () => {
+  let controller: WpPagesController;
 
   beforeEach(async () => {
     const module: TestingModule = await Test.createTestingModule({
-      controllers: [MailController],
+      controllers: [WpPagesController],
     }).compile();
 
-    controller = module.get<MailController>(MailController);
+    controller = module.get<WpPagesController>(WpPagesController);
   });
 
   it('should be defined', () => {

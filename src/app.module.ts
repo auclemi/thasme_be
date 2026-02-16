@@ -1,9 +1,9 @@
 import { Module } from '@nestjs/common';
 import { ThrottlerModule, ThrottlerGuard } from '@nestjs/throttler';
 import { APP_GUARD } from '@nestjs/core';
-import { MailModule } from './mail/mail.module';
+import { ContactModule } from './contact/contact.module';
 import { ConfigModule } from '@nestjs/config/dist/config.module';
-import { ContentModule } from './content/content.module';
+import { WpPagesModule } from './wp-pages/wp-pages.module';
 import { AppController } from './app.controller';
 
 @Module({
@@ -15,8 +15,8 @@ import { AppController } from './app.controller';
         limit: 3, // limite globale
       },
     ]),
-    MailModule,
-    ContentModule,
+    ContactModule,
+    WpPagesModule,
   ],
   providers: [
     AppController,

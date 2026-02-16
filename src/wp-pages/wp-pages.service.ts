@@ -3,7 +3,7 @@ import { readFileSync } from 'fs';
 import { join } from 'path';
 
 @Injectable()
-export class ContentService {
+export class WpPagesService {
   private wpPages: any[];
 
   constructor() {
