@@ -5,7 +5,9 @@ import { ContactService } from './contact.service';
 
 @Controller('contact')
 export class ContactController {
-  constructor(private readonly mail: ContactService) {console.log('📬 ContactController loaded');}
+  constructor(private readonly mail: ContactService) {
+    // console.log('📬 ContactController loaded');
+  }
 
   
   @Throttle({

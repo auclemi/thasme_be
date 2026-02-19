@@ -1,8 +1,12 @@
-POST http://localhost:3000/api/contact
+# POST http://localhost:3000/api/contact
+# Content-Type: application/json
+
+# {
+#   "name": "that's Me",
+#   "email": "mauclert@gmail.com",
+#   "message": "Hello depuis mon site perso !"
+# }
+
+DELETE http://localhost:3000/admin/logs
 Content-Type: application/json
 
-{
-  "name": "that's Me",
-  "email": "mauclert@gmail.com",
-  "message": "Hello depuis mon site perso !"
-}
