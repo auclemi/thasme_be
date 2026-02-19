@@ -10,12 +10,12 @@ export class ContactService {
 
   constructor(private config: ConfigService) {
     this.transporter = nodemailer.createTransport({
-      host: this.config.get('SMTP_HOST'),
-      port: this.config.get('SMTP_PORT'),
+      host: this.config.getOrThrow('SMTP_HOST'),
+      port: this.config.getOrThrow('SMTP_PORT'),
       secure: false,
       auth: {
-        user: this.config.get('SMTP_USER'),
-        pass: this.config.get('SMTP_PASS'),
+        user: this.config.getOrThrow('SMTP_USER'),
+        pass: this.config.getOrThrow('SMTP_PASS'),
       },
     });
   }
@@ -24,12 +24,12 @@ export class ContactService {
     const logEntry = { name, email, message, date: new Date().toISOString(), };
     this.saveMessageLog(logEntry);
     return this.transporter.sendMail({
-      from: `"That's Me" <${this.config.get('CONTACT_FROM')}>`,
-      to: this.config.get('CONTACT_TO'),
-      subject: `${this.config.get('SITE_NAME')} (${this.config.get('ENVIRONMENT')}) - Message de ${name}`,
+      from: `"That's Me" <${this.config.getOrThrow('CONTACT_FROM')}>`,
+      to: this.config.getOrThrow('CONTACT_TO'),
+      subject: `${this.config.getOrThrow('SITE_NAME')} (${this.config.getOrThrow('ENVIRONMENT')}) - Message de ${name}`,
       html: `
       <div style="font-family: Arial, sans-serif; padding: 20px; color: #333;">
-        <h2 style="color: #444;">Nouveau message depuis ${this.config.get('SITE_NAME')} (${this.config.get('ENVIRONMENT')})</h2>
+        <h2 style="color: #444;">Nouveau message depuis ${this.config.getOrThrow('SITE_NAME')} (${this.config.getOrThrow('ENVIRONMENT')})</h2>
 
         <p><strong>Nom :</strong> ${name}</p>
         <p><strong>Email :</strong> ${email}</p>
@@ -49,7 +49,8 @@ export class ContactService {
   }
 
   private saveMessageLog(entry: any) {
-    const filePath = path.join(process.cwd(), 'messages.json');
+    const filePath = path.join(process.cwd(), this.config.getOrThrow('LOG_FILE_PATH'));
+    console.log(`Saving log entry to ${filePath}`); // debug
     if (!fs.existsSync(filePath)) {
        fs.writeFileSync(filePath, '[]', 'utf8'); 
     }
