@@ -2,7 +2,7 @@ import { Controller, Get, Delete } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
 import * as fs from 'fs';
 
-@Controller('admin')
+@Controller('api/admin')
 export class AdminController {
 
   constructor(private readonly config: ConfigService) {}
