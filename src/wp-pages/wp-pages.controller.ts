@@ -1,7 +1,7 @@
 import { Controller, Get } from '@nestjs/common';
 import { WpPagesService } from './wp-pages.service';
 
-@Controller('wp-pages')
+@Controller('api/wp-pages')
 export class WpPagesController {
   constructor(private readonly content: WpPagesService) {}
 

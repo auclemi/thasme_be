@@ -3,7 +3,7 @@ import { Throttle } from '@nestjs/throttler';
 import { ContactDto } from './dto/contact.dto';
 import { ContactService } from './contact.service';
 
-@Controller('contact')
+@Controller('api/contact')
 export class ContactController {
   constructor(private readonly mail: ContactService) {
     // console.log('📬 ContactController loaded');
